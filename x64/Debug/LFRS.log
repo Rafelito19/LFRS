@@ -1,0 +1,11 @@
+﻿  LFRS.cpp
+c:\users\djrafa\source\repos\lfrs\lfrs\lfrs.cpp(24): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\djrafa\source\repos\lfrs\lfrs\lfrs.cpp(40): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned long', possible loss of data
+c:\users\djrafa\source\repos\lfrs\lfrs\lfrs.cpp(99): warning C4244: 'return': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\djrafa\source\repos\lfrs\lfrs\lfrs.cpp(112): warning C4244: 'initializing': conversion from 'time_t' to 'uint32_t', possible loss of data
+c:\users\djrafa\source\repos\lfrs\lfrs\lfrs.cpp(119): warning C4311: 'type cast': pointer truncation from 'time_t *' to 'int'
+c:\users\djrafa\source\repos\lfrs\lfrs\lfrs.cpp(119): warning C4302: 'type cast': truncation from 'time_t *' to 'int'
+c:\users\djrafa\source\repos\lfrs\lfrs\lfrs.cpp(124): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\djrafa\source\repos\lfrs\lfrs\lfrs.cpp(134): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+c:\users\djrafa\source\repos\lfrs\lfrs\lfrs.cpp(136): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+  LFRS.vcxproj -> C:\Users\djrafa\source\repos\LFRS\x64\Debug\LFRS.exe
